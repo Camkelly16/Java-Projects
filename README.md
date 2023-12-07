@@ -1,2 +1,2 @@
 # Java-Learning-Practice
-This Github Repository contain my process of learning Java. 
+This Github Repository contains my progress in learning Java. 
