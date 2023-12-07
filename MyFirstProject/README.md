@@ -1,6 +1,6 @@
 ## MyFirstProgram
 
-This is my First Program in Java. 
+This is my First Program in Java. There is much more to come. 
 ## Folder Structure
 
 The workspace contains two folders by default, where:
